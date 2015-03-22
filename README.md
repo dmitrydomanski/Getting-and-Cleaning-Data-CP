@@ -5,7 +5,7 @@ This repo is made in accordance with Getting and Cleaning Data Course Project re
 
 #How does it work
 
-The code takes for granted you have un-compressed the downloaded file directly into the working directory and without names altered.
+The code operates well if you have un-compressed the downloaded file directly into the working directory and without names altered.
 
 CodeBook.md describes the variables, the data, and any transformations or work that was performed to clean up the data.
 
